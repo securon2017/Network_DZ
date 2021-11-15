@@ -1,0 +1,10 @@
+E:\STEP\Сетевое программирование\NetworkProg-VPU\Lesson_01\ChatApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+E:\STEP\Сетевое программирование\NetworkProg-VPU\Lesson_01\ChatApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+E:\STEP\Сетевое программирование\NetworkProg-VPU\Lesson_01\ChatApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+E:\STEP\Сетевое программирование\NetworkProg-VPU\Lesson_01\ChatApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+E:\STEP\Сетевое программирование\NetworkProg-VPU\Lesson_01\ChatApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+E:\STEP\Сетевое программирование\NetworkProg-VPU\Lesson_01\ChatApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+E:\STEP\Сетевое программирование\NetworkProg-VPU\Lesson_01\ChatApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+E:\STEP\Сетевое программирование\NetworkProg-VPU\Lesson_01\ChatApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+E:\STEP\Сетевое программирование\NetworkProg-VPU\Lesson_01\ChatApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+E:\STEP\Сетевое программирование\NetworkProg-VPU\Lesson_01\ChatApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb

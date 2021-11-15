@@ -1,0 +1,16 @@
+E:\STEP\Сетевое программирование\NetworkProg-VPU\Lesson_01\ChatApp\ServerApp\bin\Debug\net5.0\ServerApp.exe
+E:\STEP\Сетевое программирование\NetworkProg-VPU\Lesson_01\ChatApp\ServerApp\bin\Debug\net5.0\ServerApp.deps.json
+E:\STEP\Сетевое программирование\NetworkProg-VPU\Lesson_01\ChatApp\ServerApp\bin\Debug\net5.0\ServerApp.runtimeconfig.json
+E:\STEP\Сетевое программирование\NetworkProg-VPU\Lesson_01\ChatApp\ServerApp\bin\Debug\net5.0\ServerApp.runtimeconfig.dev.json
+E:\STEP\Сетевое программирование\NetworkProg-VPU\Lesson_01\ChatApp\ServerApp\bin\Debug\net5.0\ServerApp.dll
+E:\STEP\Сетевое программирование\NetworkProg-VPU\Lesson_01\ChatApp\ServerApp\bin\Debug\net5.0\ref\ServerApp.dll
+E:\STEP\Сетевое программирование\NetworkProg-VPU\Lesson_01\ChatApp\ServerApp\bin\Debug\net5.0\ServerApp.pdb
+E:\STEP\Сетевое программирование\NetworkProg-VPU\Lesson_01\ChatApp\ServerApp\obj\Debug\net5.0\ServerApp.csproj.AssemblyReference.cache
+E:\STEP\Сетевое программирование\NetworkProg-VPU\Lesson_01\ChatApp\ServerApp\obj\Debug\net5.0\ServerApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\STEP\Сетевое программирование\NetworkProg-VPU\Lesson_01\ChatApp\ServerApp\obj\Debug\net5.0\ServerApp.AssemblyInfoInputs.cache
+E:\STEP\Сетевое программирование\NetworkProg-VPU\Lesson_01\ChatApp\ServerApp\obj\Debug\net5.0\ServerApp.AssemblyInfo.cs
+E:\STEP\Сетевое программирование\NetworkProg-VPU\Lesson_01\ChatApp\ServerApp\obj\Debug\net5.0\ServerApp.csproj.CoreCompileInputs.cache
+E:\STEP\Сетевое программирование\NetworkProg-VPU\Lesson_01\ChatApp\ServerApp\obj\Debug\net5.0\ServerApp.dll
+E:\STEP\Сетевое программирование\NetworkProg-VPU\Lesson_01\ChatApp\ServerApp\obj\Debug\net5.0\ref\ServerApp.dll
+E:\STEP\Сетевое программирование\NetworkProg-VPU\Lesson_01\ChatApp\ServerApp\obj\Debug\net5.0\ServerApp.pdb
+E:\STEP\Сетевое программирование\NetworkProg-VPU\Lesson_01\ChatApp\ServerApp\obj\Debug\net5.0\ServerApp.genruntimeconfig.cache
